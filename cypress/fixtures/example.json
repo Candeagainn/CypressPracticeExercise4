@@ -1,0 +1,14 @@
+{
+  "credencialesBuenas": [
+    {"nombre": "Candela", "password": "pwd"},
+    {"nombre": "Luke", "password": "pwd"},
+    {"nombre": "Liz", "password": "pwd"},
+    {"nombre": "Rob", "password": "pwd"}
+  ],
+  "credencialesFalsas": [
+    {"nombre": "Jim", "password": "lala"},
+    {"nombre": "Marjory", "password": "asd22"},
+    {"nombre": "Lujan", "password": "k5544"},
+    {"nombre": "Jose", "password": "lo98j"}
+  ]
+}
